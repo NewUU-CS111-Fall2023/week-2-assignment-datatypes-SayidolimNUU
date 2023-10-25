@@ -1,3 +1,8 @@
+/*
+ * Author: Sayidolimxon Usmanxonov
+ * Date: 25.10.2023
+ */
+
 #include <iostream>
 
 using std::cin, std::cout, std::string, std::endl;
