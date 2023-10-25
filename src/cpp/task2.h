@@ -8,7 +8,7 @@
 
 using std::cin, std::cout, std::string, std::endl;
 
-int main() {
+void task2() {
     srand(time(0));
     int input = 0, randomNumber = rand() % 99 + 1;
     cout << "Guess my random from 1 to 100" << endl;
